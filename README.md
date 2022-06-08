@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhangNguyen136
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning react native, swift - ios
+- 🌱 I’m mobile dev with main skill is react-native. I also learned a little about flutter and IOS native (swift)
 - 📫 How to reach me nguyentankhang136@gmail.com
 
 <!---
